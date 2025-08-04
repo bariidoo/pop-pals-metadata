@@ -1,0 +1,38 @@
+{
+  "name": "Pop Pals #1",
+  "description": "These colorful pals offer their owners both an aesthetic delight and a strong sense of belonging in the digital world. Push the boundaries of creativity and fun with Pop Pals, and become part of a unique community.",
+  "external_url": "",
+  "image": "pop-pals-#1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Weary Glance"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pop Pals Hair"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "pop-pals-#1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+}
